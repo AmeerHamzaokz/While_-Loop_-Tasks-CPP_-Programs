@@ -7,7 +7,7 @@ This repository contains a collection of 18 basic programming tasks solved using
 3. Even and Odd numbers
 4. Multiples of 2, 5, and K
 ...
-18. Skipping multiples of 4
+5. Skipping multiples of 4
 
 ## How to use:
 Each task is documented in the main `.cpp` file. To run a specific task, simply uncomment the `main()` function for that task.
